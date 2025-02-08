@@ -1,18 +1,18 @@
-Hungry
+**Hungry**
 
 FFXI Windower Addon
 
-DISCLAIMER:
+**DISCLAIMER:**
 
 This addon is a third-party tool designed for use with Final Fantasy XI. Use it at your own risk. The creator of this addon is not affiliated with Square Enix and is not responsible for any consequences arising from its use, including but not limited to violations of the game’s terms of service, account penalties, or unintended game behavior. By using this addon, you acknowledge and accept any potential risks involved.
 
-DESCRIPTION:
+**DESCRIPTION:**
 
 The Hungry addon will display wavy text in the middle of the screen indicating you are hungry when you haven't eaten food.
 
 Good as a reminder to eat food or for RP purposes if you're weird like that.
 
-INSTRUCTIONS:
+**INSTRUCTIONS:**
 
 In the windower console;
 
